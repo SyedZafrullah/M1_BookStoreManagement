@@ -1,0 +1,98 @@
+
+atomic habits
+james clear
+random book publishers
+499
+12141
+non-fiction
+
+wings of fire
+Dr.A.P.J.abdul kalam
+university press
+299
+14578
+non-fiction
+
+the greatness guide
+robin sharma
+jaico publication
+299
+12456
+non-fiction
+
+forge your future
+Dr.A.P.J.abdul kalam
+jaico publication
+199
+10254
+non-fiction
+
+the 5am club
+robin sharma
+jaico publication
+350
+14589
+non-fiction
+
+rich dad poor dad
+robert kiyosaki
+warner books
+300
+14785
+non-fiction
+
+you only live once
+stuti changle
+penguin press
+200
+12369
+fiction
+
+stories we never tell
+savi sharma
+westland press
+199
+32165
+fiction
+
+programming in c
+sudeep Prasad
+mcgrawhill publishers
+499
+45698
+educational
+
+applied electronics
+rs sedha
+s chand publishers
+199
+74589
+educational
+
+linear integrated circuits
+roy chaudry
+new age publishers
+350
+85693
+educational
+
+biomedical instrumentation
+m.arumugam
+anuradha publications
+250
+45871
+educational
+
+if tomorrow comes
+sidney sheldon
+warner books
+330
+91746
+fiction
+
+sady
+saad
+freind
+244
+49510
+non-fiction
