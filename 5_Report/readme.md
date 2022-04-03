@@ -3,7 +3,12 @@
 
 # ***Objective:***
 
-    	Create an application to be accessible for the customer or the owner(admin) to get the details about the books present in the store.
+    	Create an application to be accessible for the customer and the owner(admin).
+		To get the details about the books present in the store.
+		To Add books to the store by admin.
+		To Buy book from the store by customer.
+		Request book to the Store.
+
 
 # ***Functions Used:***   
 
