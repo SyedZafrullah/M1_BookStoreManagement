@@ -1,5 +1,5 @@
 # Project Name : Book Store Management Application
-# **Author: Syed Zafrullah S**
+
 
 # ***Objective:***
 
